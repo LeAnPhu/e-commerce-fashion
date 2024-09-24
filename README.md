@@ -1,2 +1,2 @@
-# e-commerce-fashion
+# E-commerce-fashion
 Đồ án liên ngành
